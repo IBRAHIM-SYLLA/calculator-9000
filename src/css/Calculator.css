@@ -1,0 +1,10 @@
+.title h1 {
+    text-align: center;
+    color: red;
+  }
+  .title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+  }

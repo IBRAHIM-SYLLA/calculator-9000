@@ -1,0 +1,33 @@
+.buttonPanel{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+}
+.numberButton{
+    width: 300px;
+}
+.operationButton{
+    display: flex;
+    flex-direction: column;
+    height: 300px
+}
+.Numbers{
+    display: flex;
+}
+.ClearEqual{
+    display: flex;
+}
+.ClearEqual button{
+    width: 100px;
+    background-color: red
+}
+.operationButton button{
+    background-color:red
+}
+.operationButton button:hover{
+    background-color: blue;
+}
+.ClearEqual button:hover{
+    width: 100px;
+    background-color: blue;
+}

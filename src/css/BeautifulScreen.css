@@ -1,0 +1,8 @@
+.screen{
+    border: none;
+    height: 50px;
+    width: 355px;
+    align-items: center;
+    background-color: rgb(122, 239, 122);
+    font-size: 1.5em;
+}
